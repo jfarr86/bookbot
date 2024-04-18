@@ -1,1 +1,1 @@
-# bookbot
+Bookbot project utilizing git and github
